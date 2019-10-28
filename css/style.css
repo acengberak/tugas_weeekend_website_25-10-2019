@@ -3,3 +3,42 @@
 body {
     font-family: "Questrial", sans-serif;
 }
+section .container-fluid .row {
+	margin-bottom: 50px;
+}
+
+section .container-fluid .container .row .container h1 {
+
+	font-size: 6vmin;
+    padding-top: 14vmin;
+}
+
+section .container-fluid .container .row .col-sm-12 {
+	margin-top: 50px;
+}
+
+section .row .col-sm-7 {
+    padding: 22vmin 1vmin;
+    padding-bottom: 35vmin 1vmin;
+    font-family: var(--Rubik);
+    color: whitesmoke;
+}
+
+section .row .col-sm-5 img {
+    width: 90%;
+    margin-top: 3vmin;
+    box-shadow: 0px 25px 42px rgba(0, 0, 0, 0.2);
+
+}
+
+section .container .col-sm-7 h6 {
+    padding: 1vmin;
+    letter-spacing: 4px;
+}
+
+
+section .container .col-sm-7 h1 {
+    font-size: 8.5vmin 1vmin;
+    font-weight: bold;
+    padding: 0.1em 0em;
+}
