@@ -3,3 +3,9 @@
 body {
     font-family: "Questrial", sans-serif;
 }
+header{
+  background-color: black;
+}
+.row{
+  background-color: white;
+}
