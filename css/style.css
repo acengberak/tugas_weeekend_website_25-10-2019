@@ -41,4 +41,10 @@ section .container .col-sm-7 h1 {
     font-size: 8.5vmin 1vmin;
     font-weight: bold;
     padding: 0.1em 0em;
+  }
+header{
+  background-color: black;
+}
+.row{
+  background-color: white;
 }
